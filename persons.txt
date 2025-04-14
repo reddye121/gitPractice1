@@ -1,0 +1,64 @@
+{
+    "people": [
+        {
+            "name": "Alice",
+            "age": 25,
+            "email": "alice@example.com",
+            "address": {
+                "street": "123 Main St",
+                "city": "New York",
+                "zip": "10001"
+            },
+            "hobbies": ["reading", "cycling", "hiking"],
+            "is_active": true
+        },
+        {
+            "name": "Bob",
+            "age": 30,
+            "email": "bob@example.com",
+            "address": {
+                "street": "456 Oak St",
+                "city": "Los Angeles",
+                "zip": "90001"
+            },
+            "hobbies": ["gaming", "cooking", "swimming"],
+            "is_active": false
+        },
+        {
+            "name": "Charlie",
+            "age": 28,
+            "email": "charlie@example.com",
+            "address": {
+                "street": "789 Pine St",
+                "city": "Chicago",
+                "zip": "60601"
+            },
+            "hobbies": ["photography", "traveling", "music"],
+            "is_active": true
+        },
+        {
+            "name": "David",
+            "age": 35,
+            "email": "david@example.com",
+            "address": {
+                "street": "321 Birch St",
+                "city": "Houston",
+                "zip": "77001"
+            },
+            "hobbies": ["fishing", "gardening", "running"],
+            "is_active": false
+        },
+        {
+            "name": "Eve",
+            "age": 27,
+            "email": "eve@example.com",
+            "address": {
+                "street": "654 Cedar St",
+                "city": "San Francisco",
+                "zip": "94101"
+            },
+            "hobbies": ["painting", "yoga", "dancing"],
+            "is_active": true
+        }
+    ]
+}
